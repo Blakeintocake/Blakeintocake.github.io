@@ -1,0 +1,93 @@
+
+body {
+  font-family: 'Kdam Thmor Pro', sans-serif;
+}
+p{
+  background-color:grey;
+  color:white;
+}
+header{
+  background-color:grey;
+  text-align:center;
+}
+
+main {
+  text-align:center;
+}
+
+h1 {
+  color: pink;
+  font-size:75px;
+}
+
+#Cheesecake{
+  width:500px;
+  height:500px;
+  border:solid 2px black;
+  padding:20px;
+}
+#Chocolatecake{
+  width:500px;
+  height:500px;
+  border:solid 10px pink;
+  padding:15px;
+}
+#Carrotcake{
+   width:500px;
+  height:500px;
+  border:solid 10px pink;
+  padding:15px;
+}
+#EnemyCheesecake{
+  width:500px;
+  border:solid 2px black;
+  padding:20px;
+}
+
+#Cheesecake2{
+  width:500px;
+  border:solid 10px pink;
+  padding:15px;
+}
+#Source{
+  font-size:10;
+}
+h2{
+  margin-bottom:0;
+  color:grey;
+}
+
+footer{
+  background-color: pink;
+  color: white;
+  font-size:20px;
+  text-align:center;
+}
+
+nav {
+  background-color:pink;
+  text-align:left;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+li{
+  display: inline-block;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  padding-right:20px;
+  padding-left:20px;
+}
+
+a:hover{
+  background-color: white;
+  color: black;
+}
